@@ -2,8 +2,6 @@
 
 
 
-
-
 body {
   
   display: flex;
@@ -15,7 +13,8 @@ body {
   letter-spacing:2px;
   overflow: hidden;
   width: 100%;
-  background-image: linear-gradient(135deg, #fc99ff, #ffffff);
+/*   background-image: linear-gradient(135deg, #fc99ff, #ffffff); */
+  background-image: linear-gradient(135deg, #fcfcff, #ffffff);
 }
 h1 {
   color: white;
