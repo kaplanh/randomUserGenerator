@@ -3,7 +3,7 @@
 
 ![github followers](https://github.com/kaplanh/github-followers/assets/101884444/53c26f47-ffaf-45f0-bb7d-733eb06fe7a3)
 
-[Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
+[:point_right:Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
 
 **How does my project look**
 
