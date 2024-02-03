@@ -1,9 +1,10 @@
 # randomUserGenerator
 
 
-![github followers](https://github.com/kaplanh/github-followers/assets/101884444/53c26f47-ffaf-45f0-bb7d-733eb06fe7a3)
 
-[:point_right:Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
+[:point_right: Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
+
+
 
 **How does my project look**
 
@@ -13,61 +14,66 @@
 |Api-Server | Once you clone the project|[Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/)|
 |Html| open index.html with Go Live in vs cod|[Visit me on Linkedin](https://www.linkedin.com/in/kaplan-h/)|
 |Css||   
-|Javascript |  |
-|Bootstrap ||   
+|Javascript |  |  
 
-**What is this project about ?**
-- 
+
+
 
 
 
 ## Project Skeleton 
 
 ```
-Synchronous-Asynchronous-Programming(folder)
+ randomUserGenerator(folder)
+
 |
 |----readme.md                        
 |----index.html
 |----app.js
+|----style.css
 
 ```
 
 ### At the end of the project, the following topics are to be covered;
 
 - API's
-  - [Github followers API](https://api.github.com/users)
+  - [Random User API](https://randomuser.me/api)
 - HTML
+  - font-awesome
+   ~~~html
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+   ~~~
   
-  - JS  
+- Css
+   - linear-gradient
+   - box-shadow
+   - transpyrent
+     ~~~
+      background-image: linear-gradient(135deg, #fcfcfc, #ffffff);
+      box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+     .btn {
+            background-color: transparent;
+          }
+     ~~~
+
+- Css
+- JS  
    - fetch API        
    - async-await
           
   
    - DOM Manipulations
-      - createElement
-      - className
-      - appendChild
       - innerHTML
-      - innerText
-      - textContent
+  
      
     - DOM Selectors
-      - getElementById
       - querySelector  
     
     - Events
         - click
-        - load
  
- 
-  
-    - Array Methods
-    - forEach()
-
-     ```
-            data.forEach((user) => createElem(user));
-     ```
-
 
 
  
