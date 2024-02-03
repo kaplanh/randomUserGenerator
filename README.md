@@ -1,3 +1,3 @@
 # randomUserGenerator
 
-# :point_right: [Click here to see on browser](https://fatihcaliss.github.io/randomUserGenerator/)
+# :point_right: [Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
