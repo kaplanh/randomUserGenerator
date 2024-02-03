@@ -8,9 +8,9 @@ body {
     height: 100vh;
     overflow: hidden;
     width: 100%;
-    /* background-image: linear-gradient(135deg, #2d283e, #4c495d); */
+    background-image: linear-gradient(135deg, #2d283e, #4c495d);
     font-family: 'Montserrat', sans-serif;
-    background-color: #1e1f26;
+/*     background-color: #1e1f26; */
 }
 
 h1 {
