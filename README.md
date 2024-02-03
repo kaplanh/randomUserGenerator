@@ -1,6 +1,6 @@
 # randomUserGenerator
 
-
+![Random User](https://github.com/kaplanh/randomUserGenerator/assets/101884444/e92b63c5-cd50-4510-80d0-21fd1ab9c976)
 
 [:point_right: Click here to see on browser](https://kaplanh.github.io/randomUserGenerator/)
 
