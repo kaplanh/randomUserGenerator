@@ -37,7 +37,7 @@
 ### At the end of the project, the following topics are to be covered;
 
 - API's
-  - [Random User API](https://randomuser.me/api)
+  - [QR code API](https://goqr.me/api/)
 - HTML
   - font-awesome
    ~~~html
